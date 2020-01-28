@@ -1,0 +1,16 @@
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.pdb
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\bin\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.Resources.resources
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.vbproj.GenerateResource.Cache
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.dll
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.xml
+D:\DATA KAMPUS\SEMESTER 5\PWEB 2 [PRAKTIKUM]\ProyekKetenagakerjaan\ProyekKetenagakerjaan\obj\Debug\ProyekKetenagakerjaan.pdb
